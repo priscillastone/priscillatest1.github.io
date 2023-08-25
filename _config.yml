@@ -8,10 +8,13 @@ email: "priscillastone81@gmail.com"
 twitter_username: "priscillastone_"
 github_username: "priscillastone81"
 
+theme: hitchens-theme
+
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: hitchens-theme
+
+
 
 rss: rss
 
