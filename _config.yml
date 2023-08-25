@@ -11,7 +11,7 @@ github_username: "priscillastone81"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-remote_theme: hitchens-theme
+theme: hitchens-theme
 
 rss: rss
 
